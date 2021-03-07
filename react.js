@@ -90,6 +90,7 @@ class App extends React.Component {
             // })
             return
         }
+        
         this.setState({
             appTitle: title
         })
